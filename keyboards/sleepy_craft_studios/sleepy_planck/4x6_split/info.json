@@ -14,7 +14,7 @@
         "rgblight": true
     },
     "rgblight": {
-        "led_count": 7
+        "led_count": 9
     },
     "ws2812": {
         "pin": "F4"
